@@ -1,0 +1,9 @@
+const String map_logo_path = "assets/logos/map.svg";
+const String delivery_bike_logo_path = "assets/logos/delivery_bike.svg";
+const String warehouse_logo_path = "assets/logos/warehouse.svg";
+const String packare_logo_path = "assets/logos/packare_logo.svg";
+const String no_image_holder = "assets/images/no_image_holder.jpg";
+const String empty_routes = "assets/logos/empty_routes.svg";
+const String route_logo = "assets/logos/route_logo.svg";
+const String orders_empty = "assets/logos/orders_empty.svg";
+const String user_avatar = "assets/logos/user_avatar.svg";

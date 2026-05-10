@@ -1,0 +1,71 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+.const.dart
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+.vscode/
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Generated plugin files
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Dart tool
+.dart_tool/
+
+# Flutter build outputs
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# Android related
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/local.properties
+
+# iOS related
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+
+# macOS
+macos/Flutter/ephemeral/
+macos/Pods/
+
+# Windows
+windows/flutter/ephemeral/
+
+# Linux
+linux/flutter/ephemeral/
+
+# Coverage
+coverage/
+
+# Lock files (optional)
+# Uncomment if you don't want to commit lock files
+# pubspec.lock

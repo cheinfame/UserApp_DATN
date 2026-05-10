@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "749355270093",
+    "project_id": "packare",
+    "storage_bucket": "packare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749355270093:android:65a1798ad78ffabda80e84",
+        "android_client_info": {
+          "package_name": "com.example.packare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcfp86qLZAAwBtoo2SNKon1GmNkBUo1OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
